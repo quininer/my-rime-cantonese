@@ -16,4 +16,5 @@ import_tables:
   - jyut6ping3.phrase
   - jyut6ping3.lettered
   - jyut6ping3.maps
+  - jyut6ping3.compat
 ...

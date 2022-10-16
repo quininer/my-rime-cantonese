@@ -1,0 +1,121 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# jyut6ping3 - 粵拼詞庫
+#
+# Source: https://github.com/CanCLID/rime-cantonese-upstream
+
+---
+name: jyut6ping3.chars
+version: "2022.07.21"
+sort: by_weight
+...
+
+# 缺字/詞
+
+俖	poi2
+蹺蹊	kiu1 kei1
+撈	laau1
+撈	laau4
+
+# 新音
+
+了	let1
+喵	miaau1
+玩	waan2
+
+# 本字
+
+等	dei6
+勿	me1
+勿	mai4
+爾	ni1
+劈	pai1
+合	ngaam1
+恰	ngaam1
+怎	dim2
+焉	bin1
+毋	m4
+也	je5
+睏	fan3
+恁	gam2
+恁	gam3
+尐	di1
+其	ge3
+忌	ge3
+擁	ung2
+㧻	duk1
+鑽	gyun1
+𧥺	kwan1
+攰	gui6
+滮	biu1
+𧨾	tam3
+拃	zaa6
+尚	zung6
+眲	ngak1
+㩄	saai1
+澌	saai3
+徂	zo2
+來	lei4
+無	mou5
+䎺	zai3
+箇	go3
+
+今下	gaa1 haa5
+而今	ji4 gaa1
+旮旯	kaa1 laa1
+隔籬	gaak3 lei4
+謦欬	king1 gai6
+咖啡	gaa3 fei1
+咖喱	gaa3 lei1
+
+# 譯讀
+
+不	m4		# 毋
+是	hai6	# 係
+麼	me1		# (咩)
+在	hai2	# (喺)
+點	di1		# 尐
+他	keoi5	# 佢
+她	keoi5	# 佢
+它	keoi5	# 佢
+給	bei2	# 畀 （常用異讀）
+給	bei3	# 畀
+的	ge1		# 忌、其、(嘅)
+哄	tam3	# 𧨾
+找	wan2	# 搵
+了	zo2		# 徂、(咗)
+惱	nau1    # 嬲
+怒	nau1	# 嬲
+吧	gwaa3	# (啩)
+對	ngaam1	# 合
+動	juk1	# 逳
+還	zung6	# 重、尚、(仲)
+看	tai2	# 睇
+久	noi6	# 耐
+隻	zi1		# 隻
+哪	bin1	# 焉
+那	go2		# 嗰
+這	ni1		# 爾
+也	dou1	# 都
+累	gui6	# 攰
+背	me1		# 孭
+欺	haa1	# 吓、狎
+哭	haam3	# 喊
+那	gam3	# (咁)
+
+這樣	gam2 joeng6	# (噉樣)
+什麼	mat1 je5	# (乜嘢)
+什麼	me1 je5		# (乜嘢)
+吉他	git3 taa1	# ..
+明天	ting1 jat6	# (聽日)
+人家	jan4 dei6	# (人哋)
+難道	m4 tung1	# 毋通
+你們	nei5 dei6	# 你等、(你哋)
+隔壁	gaak3 lei4	# 隔離
+噁心	wat6 dat6	# 鶻突
+小孩	sai3 lou6	# (細路)
+這裏	ni1 dou3	# 爾道
+那裏	go3 dou3	# (嗰度)
+哪裏	bin1 dou3	# 焉道、(邊度)
+現在	ji4 gaa1    # 而今
